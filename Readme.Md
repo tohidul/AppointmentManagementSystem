@@ -16,7 +16,7 @@ The Appointment Management System is a .NET 8 application designed to manage app
 - ASP.NET Core
 - Entity Framework Core
 - AutoMapper
-- xUnit
+- nUnit
 
 ## Getting Started
 
